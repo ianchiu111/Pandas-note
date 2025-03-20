@@ -1,4 +1,4 @@
-# pandas-note
+# Pandas-note
 ## NCCU --- Data Science 
 ### 代名詞說明
 1. df 為 DataFrame 的名稱 → Ndf 為 New DataFrame
