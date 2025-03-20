@@ -16,13 +16,18 @@
 #### 處理 null 值
 - ✴️`df['CN'].fillna(A, replace = True)` → 將 A 替代為 null 值
 #### 處理時間資料
+- 
+#### GroupBy
+- 
 
 ### Merge
 - `Ndf = pd.merge(df1, df2, on = 'CN', how = {choice}`
   - {choice} : inner, outer, right, left
 
 ### Dummy Variables
-`✴️ 需要再補一下筆記資料`
-`概念與 ML 的 one-hot encoding 類似，主要將資料以 True False 來呈現`
+```
+1. `✴️需要再補一下筆記資料`
+2. `概念與 ML 的 one-hot encoding 類似，主要將資料以 True False 來呈現`
+```
 - 
 - 
